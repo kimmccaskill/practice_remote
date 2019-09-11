@@ -1,0 +1,5 @@
+purple
+red
+blue
+garnet
+gold
